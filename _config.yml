@@ -1,4 +1,8 @@
+# Setup
+title:            Blog
+tagline:          '1st post'
+description:      '1st post'
+url:              http://dmwilliamstech.github.io/blog
 safe: true
 lsi: false
 pygments: true
-baseurl: /dmwilliamstech.github.io
