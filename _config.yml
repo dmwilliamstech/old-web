@@ -1,8 +1,4 @@
-# Setup
-title:            Blog
-tagline:          '1st post'
-description:      '1st post'
-url:              http://dmwilliamstech.github.io/blog
-safe: true
-lsi: false
+auto: true
+markdown: rdiscount
 pygments: true
+permalink: /blog/:title
